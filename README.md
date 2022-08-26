@@ -1,2 +1,2 @@
 # Journey-to-JavaScript
-JS(JavaScript) Noob To Pro Learning Log
+JS(JavaScript) Noob To Pro Learning Log!
